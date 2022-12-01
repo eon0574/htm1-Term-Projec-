@@ -1,0 +1,98 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.flex {
+  width: 1140px;
+  margin: 0 auto;
+  display : flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.thum,
+.option {
+  width:50%;
+}
+
+.width-100per {
+  width:100%;
+}
+.thum img {
+  width: 100%;
+  height: auto;
+  margin-left:-5px;
+  border: 1px solid #ccc
+}
+
+.title {
+  font-size: 38x;
+  font-weight: 700;
+  color: #333
+}
+
+.brown{
+  font-size: 26px;
+  color: brown;
+}
+
+.option p {
+  font-size: 22px;
+  font-weight: 300;
+  line-height: 2.3;
+}
+
+p.border{
+  border-bottom: 1px solid gray;
+}
+.font-bold {
+  font-weight: bold;
+}
+
+.buy-button {
+  width:100%;
+  margin-top:10px;
+  padding: 10px 0;
+  background-color: #03c75a;
+  border: none;
+  border-radius: 3px;
+  color: #fff;
+  font-size:14px;
+  font-weight: bold;
+}
+
+.content-wrapper {
+  display:flex;
+flex-decoration: row;
+ flex-wrap: nowrap;
+}
+
+div.middle{
+  width: 1140px;
+  height: 100%;
+  margin: 0 auto;
+  border: 1px solid red;
+  text-align: center;
+}
+
+div.middle p.txt-left{
+  text-align: left;
+}
+ul.bag{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  border: 1px solid;
+  cursor: pointer;
+  text-align: left;
+}
+
+ul.bag li img{
+  width:150px;
+  height:150px;
+  border: 1px solid #000;
+}

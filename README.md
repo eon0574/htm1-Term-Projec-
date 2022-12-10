@@ -5,8 +5,8 @@
 * 현재 제가 참고하여 만든 상품 상세페이지가 품절되어 해당 사이트 조회가 되지않아서 비슷한 상세페이지 경로 추가로 첨부해드립니다.
 
 ## Reference
-[naver](https://smartstore.naver.com/akplaza1/products/7116487787)
-[naver](https://smartstore.naver.com/akplaza1/products/7723679635)
+[naver 품절상태](https://smartstore.naver.com/akplaza1/products/7116487787)
+[naver 대체경로추가](https://smartstore.naver.com/akplaza1/products/7723679635)
 <!--
 <a href="https://https://smartstore.naver.com/akplaza1/products/7116487787">naver</ㅁ>
 -->
